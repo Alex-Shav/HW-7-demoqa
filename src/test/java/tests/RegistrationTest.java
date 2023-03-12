@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import pages.RegistrationPage;
 import pages.components.RegistrationRfModal;
 
-public class RegistrationFromTest extends RfTestBase {
+public class RegistrationTest extends RfTestBase {
 
     public RegistrationPage registrationPage = new RegistrationPage();
     public RegistrationRfModal registrationResultModal = new RegistrationRfModal();
